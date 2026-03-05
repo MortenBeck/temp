@@ -1,0 +1,4 @@
+--patch-module
+dk.dtu.compute.course02324.mini_java=_
+--add-reads
+dk.dtu.compute.course02324.mini_java=ALL-UNNAMED
